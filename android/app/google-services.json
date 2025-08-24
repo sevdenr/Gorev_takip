@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "731904626311",
+    "project_id": "trello-21ced",
+    "storage_bucket": "trello-21ced.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731904626311:android:c5f292751e5c7a4097b222",
+        "android_client_info": {
+          "package_name": "com.example.trello"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFY4hNH5Wj8kDjPPbmjXWCGobpNB32flo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
